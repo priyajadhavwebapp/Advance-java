@@ -26,3 +26,5 @@ java 2aoutput:https://github.com/user-attachments/assets/4c530e2c-c57a-4c6e-9987
 java 2boutput:https://github.com/user-attachments/assets/60b630b3-e083-4796-a771-ef866c6064f9
 
 java 3(a)output:https://github.com/user-attachments/assets/c421a5e9-484f-4cd8-9771-934a0916e5d4
+
+java 3(b)q(1)output:https://github.com/user-attachments/assets/811266eb-da98-4ad3-b47c-75463d38db05
