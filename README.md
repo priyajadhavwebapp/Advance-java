@@ -32,3 +32,5 @@ java 3(b)q(1)output:https://github.com/user-attachments/assets/811266eb-da98-4ad
 java 3(b)q(2)output:https://github.com/user-attachments/assets/51178476-7222-47d6-a01a-73e38fc304ca
 
 java 3(b)q(3)output:https://github.com/user-attachments/assets/a09ccb77-9f74-4f47-8c9c-5e968672b510
+
+java 3(b)q(4)output:https://github.com/user-attachments/assets/8859173e-27c0-4fe6-be0d-e88d31600654
