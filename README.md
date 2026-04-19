@@ -38,3 +38,5 @@ java 3(b)q(4)output:https://github.com/user-attachments/assets/8859173e-27c0-4fe
 java 3(b)q(5)output:https://github.com/user-attachments/assets/a1f4a3f6-9439-4d1b-b3a4-fcf0280a2729
 
 java 3(c)q(1)output:https://github.com/user-attachments/assets/494ca172-50d6-4318-815f-2838456fdaf3
+
+java 3(c)q(2)output:https://github.com/user-attachments/assets/fd8f0f0d-5d92-4b85-8e5a-62a24d9fde15
