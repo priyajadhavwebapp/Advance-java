@@ -22,3 +22,5 @@ java 1(c)q(4)output:https://github.com/user-attachments/assets/31d459d8-99be-439
 java 1(c)q(5)output:https://github.com/user-attachments/assets/c12440d3-929e-4c0b-9f3e-7a93be9a84ed
 
 java 2aoutput:https://github.com/user-attachments/assets/4c530e2c-c57a-4c6e-9987-8efdb924052d
+
+java 2boutput:https://github.com/user-attachments/assets/60b630b3-e083-4796-a771-ef866c6064f9
