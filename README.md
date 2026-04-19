@@ -20,3 +20,5 @@ java 1(c)q(3)output:<img width=https://github.com/user-attachments/assets/64b5ed
 java 1(c)q(4)output:https://github.com/user-attachments/assets/31d459d8-99be-4391-82dd-6116f9e738e7
 
 java 1(c)q(5)output:https://github.com/user-attachments/assets/c12440d3-929e-4c0b-9f3e-7a93be9a84ed
+
+java 2aoutput:https://github.com/user-attachments/assets/4c530e2c-c57a-4c6e-9987-8efdb924052d
