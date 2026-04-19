@@ -25,9 +25,10 @@ java 2(a)output:https://github.com/user-attachments/assets/5047a52e-6a70-440d-a1
 
 java 2(b)output:https://github.com/user-attachments/assets/1f7d5eff-85fd-4125-8984-e73f1cfbe42c
 
-
 java 3(a)output:https://github.com/user-attachments/assets/c421a5e9-484f-4cd8-9771-934a0916e5d4
 
 java 3(b)q(1)output:https://github.com/user-attachments/assets/811266eb-da98-4ad3-b47c-75463d38db05
 
 java 3(b)q(2)output:https://github.com/user-attachments/assets/51178476-7222-47d6-a01a-73e38fc304ca
+
+java 3(b)q(3)output:https://github.com/user-attachments/assets/a09ccb77-9f74-4f47-8c9c-5e968672b510
