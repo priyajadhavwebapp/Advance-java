@@ -10,3 +10,5 @@ java 1(b)q(3)output:https://github.com/user-attachments/assets/bb30e6b7-383f-407
 java 1(b)q(4)output:https://github.com/user-attachments/assets/56f66549-ba54-40d1-8b62-064e763d02fa
 
 java 1(b)q(5)output:https://github.com/user-attachments/assets/c5b7012d-cd56-4aff-9cf1-916f5aee49d8
+
+java 1(c)q(1)output:https://github.com/user-attachments/assets/4d79315b-4b6f-4f35-b2f8-b8a813706fcf
