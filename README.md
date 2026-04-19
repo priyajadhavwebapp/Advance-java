@@ -8,3 +8,5 @@ java 1(b)q(2)output:https://github.com/user-attachments/assets/be2f52c2-c358-445
 java 1(b)q(3)output:https://github.com/user-attachments/assets/bb30e6b7-383f-4079-95a0-7661f89373a8
 
 java 1(b)q(4)output:https://github.com/user-attachments/assets/56f66549-ba54-40d1-8b62-064e763d02fa
+
+java 1(b)q(5)output:https://github.com/user-attachments/assets/c5b7012d-cd56-4aff-9cf1-916f5aee49d8
