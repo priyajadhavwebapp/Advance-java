@@ -19,16 +19,11 @@ java 1(c)q(3)output:<img width=https://github.com/user-attachments/assets/64b5ed
 
 java 1(c)q(4)output:https://github.com/user-attachments/assets/31d459d8-99be-4391-82dd-6116f9e738e7
 
-java 1(c)q(5)output:https://github.com/user-attachments/assets/c12440d3-929e-4c0b-9f3e-7a93be9a84ed
+java 1(c)q(5)output:https://github.com/user-attachments/assets/c3618b39-f2db-4375-ac76-b43174d1c28f
 
-java 2aoutput:https://github.com/user-attachments/assets/4c530e2c-c57a-4c6e-9987-8efdb924052d
-
-java 2boutput:https://github.com/user-attachments/assets/60b630b3-e083-4796-a771-ef866c6064f9
 
 java 3(a)output:https://github.com/user-attachments/assets/c421a5e9-484f-4cd8-9771-934a0916e5d4
 
 java 3(b)q(1)output:https://github.com/user-attachments/assets/811266eb-da98-4ad3-b47c-75463d38db05
 
 java 3(b)q(2)output:https://github.com/user-attachments/assets/51178476-7222-47d6-a01a-73e38fc304ca
-
-java 3(b)q(3)output:https://github.com/user-attachments/assets/3f6789ad-eb8f-4474-a051-3539e5750408
