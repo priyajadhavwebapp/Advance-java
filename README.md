@@ -16,3 +16,5 @@ java 1(c)q(1)output:https://github.com/user-attachments/assets/4d79315b-4b6f-4f3
 java 1(c)q(2)output:https://github.com/user-attachments/assets/2ff4be4a-3037-4a43-8ef6-31715e546825
 
 java 1(c)q(3)output:<img width=https://github.com/user-attachments/assets/64b5ed7b-3041-473e-982a-3dbb4aa2d6d9
+
+java 1(c)q(4)output:https://github.com/user-attachments/assets/31d459d8-99be-4391-82dd-6116f9e738e7
