@@ -55,7 +55,7 @@ public class StringOperationsDemo {
 
     // 8. String Concatenation
     public static void concatenation() {
-        String a = "Hello";
+        String a = "Hello ";
         String b = "World";
         System.out.println("Concatenated: " + a.concat(b));
     }
@@ -80,7 +80,7 @@ public class StringOperationsDemo {
     // 11. String Formatting
     public static void stringFormatting() {
         String name = "Priya";
-        int marks = 90;
+        int marks = 95;
         System.out.println(String.format("Name: %s, Marks: %d", name, marks));
     }
 
@@ -98,6 +98,8 @@ public class StringOperationsDemo {
     }
 
     public static void main(String[] args) {
+
+        System.out.println("----- String Operations -----");
 
         stringCreation();
         lengthAndChar();
