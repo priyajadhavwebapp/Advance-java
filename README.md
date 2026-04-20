@@ -50,3 +50,5 @@ java 3(c)q(5)output:https://github.com/user-attachments/assets/7e77df6e-699b-4cf
 java 4(a)output:https://github.com/user-attachments/assets/51848609-ae53-4d2b-ab2a-dfb5084061c8
 
 java 4(b)output:https://github.com/user-attachments/assets/6b44d6c0-74e2-4885-8da8-964571c7ebba
+
+java 4(c)output:https://github.com/user-attachments/assets/cde07832-825a-4f2f-91cd-ee9390503f9d
