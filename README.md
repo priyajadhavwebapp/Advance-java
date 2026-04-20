@@ -98,3 +98,5 @@ java 9(c)output:https://github.com/user-attachments/assets/6d71522a-4b72-4007-a5
 java 9(c)output2:https://github.com/user-attachments/assets/408a32ed-b18d-4039-a1b5-57caa3d94858
 
 java 9(a)output:https://github.com/user-attachments/assets/43d4dc99-7183-4f80-b167-78cfa68b1ee4
+
+java 10(a)output:https://github.com/user-attachments/assets/1ed060ac-1cd0-4a29-82a2-cc4e2b2d88b0
