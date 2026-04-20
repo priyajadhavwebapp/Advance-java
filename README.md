@@ -68,3 +68,5 @@ java 6(a)output2:https://github.com/user-attachments/assets/922b1f7b-8109-47d3-9
 java 6(b)output:https://github.com/user-attachments/assets/6c84c2c8-bd13-4eb9-aa50-9b04c65fb94b
 
 java 6(b)output2:https://github.com/user-attachments/assets/d736201a-3cb0-4e33-bf31-e7314a36bcda
+
+java 6(c)output:https://github.com/user-attachments/assets/76255a70-1881-4756-b789-89fffb5e3993
