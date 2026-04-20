@@ -86,3 +86,5 @@ java 8(b)output:https://github.com/user-attachments/assets/86af58f1-e384-4604-8d
 java 8(b)output2:https://github.com/user-attachments/assets/498cd506-b916-40a5-a4fa-29cfd612103a
 
 java 8(b)output2:https://github.com/user-attachments/assets/5d14d630-8b63-4fa7-84fb-1da7e813b355
+
+java 7(b)output:https://github.com/user-attachments/assets/5a03f2b9-786c-42aa-a6a9-6cf06a4dbed7
