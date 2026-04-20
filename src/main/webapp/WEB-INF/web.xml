@@ -1,0 +1,13 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>FactorialServlet</servlet-name>
+        <servlet-class>com.servlet.factorial.FactorialServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>FactorialServlet</servlet-name>
+        <url-pattern>/FactorialServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>
