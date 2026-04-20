@@ -102,3 +102,5 @@ java 9(a)output:https://github.com/user-attachments/assets/43d4dc99-7183-4f80-b1
 java 10(a)output:https://github.com/user-attachments/assets/1ed060ac-1cd0-4a29-82a2-cc4e2b2d88b0
 
 java 10(a)output2:https://github.com/user-attachments/assets/1543af91-79df-4053-8349-2a50b29f481c
+
+java 10(b)output:https://github.com/user-attachments/assets/206a96b7-e118-4455-99ee-7ade164c5516
