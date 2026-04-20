@@ -58,3 +58,5 @@ java 5(a)output:https://github.com/user-attachments/assets/76ac3706-3ef1-4382-a7
 java 5(b)output:https://github.com/user-attachments/assets/e33d0915-6d25-4ea0-9476-ea8cd0cc195b
 
 java 5(c)output:https://github.com/user-attachments/assets/b2abf375-f954-401e-96d0-306bd39f27ef
+
+java 5(d)output:https://github.com/user-attachments/assets/a63f4386-b91b-4125-b451-5f562224095c
