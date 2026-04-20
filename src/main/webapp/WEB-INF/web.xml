@@ -1,0 +1,13 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>PrimeServlet</servlet-name>
+        <servlet-class>com.servlet.prime.PrimeServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>PrimeServlet</servlet-name>
+        <url-pattern>/PrimeServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>
