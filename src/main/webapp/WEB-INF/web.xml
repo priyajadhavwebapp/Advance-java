@@ -1,0 +1,13 @@
+<web-app>
+
+    <servlet>
+        <servlet-name>CookieVisitServlet</servlet-name>
+        <servlet-class>com.servlet.cookie.CookieVisitServlet</servlet-class>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>CookieVisitServlet</servlet-name>
+        <url-pattern>/CookieVisitServlet</url-pattern>
+    </servlet-mapping>
+
+</web-app>
