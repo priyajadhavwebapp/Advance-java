@@ -74,3 +74,5 @@ java 6(c)output:https://github.com/user-attachments/assets/76255a70-1881-4756-b7
 java 6(c)output2:https://github.com/user-attachments/assets/a708ecfe-e884-44ae-bf3a-b28cbed1a222
 
 java 7(a)output:https://github.com/user-attachments/assets/111af932-56fc-48fb-b6e9-c33b25889eb5
+
+java 7(a)output2:https://github.com/user-attachments/assets/76b24ee7-6994-4aec-aeee-05a789c255a4
