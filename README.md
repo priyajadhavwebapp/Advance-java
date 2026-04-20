@@ -94,3 +94,5 @@ java 7(b)output2:https://github.com/user-attachments/assets/88b1f306-0153-4d50-9
 java 9(b)output:https://github.com/user-attachments/assets/fc68e8b4-61f6-4b91-a251-ede912d180de
 
 java 9(c)output:https://github.com/user-attachments/assets/6d71522a-4b72-4007-a5e9-77ace803da41
+
+java 9(c)output2:https://github.com/user-attachments/assets/408a32ed-b18d-4039-a1b5-57caa3d94858
