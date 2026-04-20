@@ -48,3 +48,5 @@ java 3(c)q(4)output:https://github.com/user-attachments/assets/ac049a44-46fb-4a6
 java 3(c)q(5)output:https://github.com/user-attachments/assets/7e77df6e-699b-4cf1-a30d-1207cf6e22cd
 
 java 4(a)output:https://github.com/user-attachments/assets/51848609-ae53-4d2b-ab2a-dfb5084061c8
+
+java 4(b)output:https://github.com/user-attachments/assets/6b44d6c0-74e2-4885-8da8-964571c7ebba
